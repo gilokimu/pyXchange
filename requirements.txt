@@ -1,0 +1,4 @@
+uplink
+requests
+marshmallow
+python-dotenv
