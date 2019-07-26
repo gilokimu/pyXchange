@@ -1,7 +1,11 @@
 # Python HITBTC API
 Rest client implementation of the HITBTC API according to the rest doc <a href="https://api.hitbtc.com/">here</a>
 
+# Motivation
+Most crypto API on github only either provide a guide on how to retrieve data or provide a json dump which quickly becomes unmaintainably as the complexity of the project kicks in. This project seeks to structure data responses from hitbtc API and eventually become augnestic of the crypto exchange  
+
 # !!! Under Construction !!!
+I am still moving files around, once done, I will provide documentation on how to use the client. 
 
 ##  Usage
 To retrieve order you have made
@@ -27,8 +31,3 @@ And the output you will receive
   'updatedAt': datetime.datetime(2019, 7, 26, 3, 45, 0, 682000)
  }
 ```
-
-
-## What's under the hood
-### Implemented a declarative HTTP Client
-
