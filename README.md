@@ -1,4 +1,7 @@
-# Python HITBTC API
+# PyExchange
+Scope of the project has change - Python wrapper for several cryptocurrency exchange APIs.
+
+## Previously
 Rest client implementation of the HITBTC API according to the rest doc <a href="https://api.hitbtc.com/">here</a>
 
 # Motivation
