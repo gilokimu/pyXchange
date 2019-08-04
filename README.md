@@ -1,6 +1,11 @@
 # PyExchange
 Scope of the project has change - Python wrapper for several cryptocurrency exchange APIs.
 
+#Installation
+```
+pip install pyXchange
+```
+
 # Currently supports
 1. Hitbtc
 
