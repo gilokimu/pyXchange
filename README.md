@@ -1,7 +1,7 @@
 # PyExchange
 Scope of the project has change - Python wrapper for several cryptocurrency exchange APIs.
 
-#Installation
+# Installation
 ```
 pip install pyXchange
 ```
